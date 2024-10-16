@@ -1,11 +1,2 @@
 @prueba_tecnica_net_HostAddress = http://localhost:5102
 
-GET {{prueba_tecnica_net_HostAddress}}/todos/
-Accept: application/json
-
-###
-
-GET {{prueba_tecnica_net_HostAddress}}/todos/1
-Accept: application/json
-
-###
